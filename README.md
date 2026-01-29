@@ -24,3 +24,9 @@
 - https://github.com/vodolaz095/caesar - реализация алгоритма Цезаря для шифрования данных
 - https://github.com/vodolaz095/test-data-loader - грузит и дедуплицирует данные из JSONов
 
+Чем я горжусь
+===================
+- https://github.com/influxdata/telegraf/pull/2963
+- https://github.com/validatorjs/validator.js/pull/807
+- https://github.com/dglittle/passport-odesk/pull/2
+- https://github.com/cjdelisle/cjdns/pull/545
