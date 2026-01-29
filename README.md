@@ -30,3 +30,4 @@
 - https://github.com/validatorjs/validator.js/pull/807
 - https://github.com/dglittle/passport-odesk/pull/2
 - https://github.com/cjdelisle/cjdns/pull/545
+- https://github.com/afocus/captcha/pull/2
