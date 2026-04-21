@@ -31,3 +31,6 @@
 - https://github.com/dglittle/passport-odesk/pull/2
 - https://github.com/cjdelisle/cjdns/pull/545
 - https://github.com/afocus/captcha/pull/2
+- https://github.com/fedora-cloud/Fedora-Dockerfiles/pull/177
+- https://github.com/fedora-cloud/Fedora-Dockerfiles/pull/176
+- https://github.com/fedora-cloud/Fedora-Dockerfiles/pull/170
