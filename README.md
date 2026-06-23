@@ -4,6 +4,7 @@
 - https://github.com/vodolaz095/stocks_broadcaster  - микросервис для ретрансляции котировок из GRPC Client side stream в публикации Redis
 - https://github.com/vodolaz095/telegramnotify - консольная утилита для создания оповещений в телеграм каналах
 - https://github.com/vodolaz095/gossha - чат по SSH с хранением лога сообщений и пользователей в  SQL базе данных (mysql/postgresql/sqlite)
+- https://github.com/vodolaz095/kubeports/ - утилита для Kubernetes, которая показывает опубликованные порты сервисов и ноды, на которых они запущены.
 
 Библиотеки на Go
 ===================
